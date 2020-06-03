@@ -3,7 +3,7 @@
 
 
 # ✨ Features
-* Profile Infomation Gathering
+* Get Information Followers & Following
 * Download Image Post
 * Download Video Post
 
